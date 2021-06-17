@@ -19,5 +19,7 @@ OpenShot™ was created in 2008, in an effort to build a free, simple, open-sour
 
 Based on "OpenShot Portable" at https://portableapps.com/apps/music_video/openshot-portable 
 
+See https://portableapps.com/support/portable_app#installing
+
 ### 500 - Cloud Hosted
 
